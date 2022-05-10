@@ -1,3 +1,4 @@
+#This program simulates a concession stand at a sporting event
 menu = {'pizza': 6, 'nachos': 6, 'cheeseburger': 10, 'coke': 5, 'water': 4}
 
 
